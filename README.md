@@ -9,6 +9,8 @@ Préparation de la solution d'IA pour la mise en production
 4. ajout validation de données
 5. ajout ingenierie de fonctionnalités
 6. gestion des versions& journalisation
+7. package building
+
 
 ____________________________________________________________________________________
 Defits du projets:
