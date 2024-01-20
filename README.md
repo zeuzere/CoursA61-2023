@@ -3,10 +3,12 @@ Préparation de la solution d'IA pour la mise en production
 
 Étapes complétés:
 
-1.init setup-cours-A61
-2.Pipeline-complet-cours-A61
-3.prediction et test
-
+1. init setup-cours-A61
+2. Pipeline-complet-cours-A61
+3. prediction et test
+4. ajout validation de données
+5. ajout ingenierie de fonctionnalités
+6. gestion des versions& journalisation
 
 ____________________________________________________________________________________
 Defits du projets:
