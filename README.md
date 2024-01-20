@@ -26,6 +26,9 @@ Donc les étapes ont été les suivantes,
 4)	Après succès de l’étape commiter et pousser dans la branche
 5)	Un fois pousser un fusionne la branche avec le main (Pull request)
 6)	On recommence avec la prochaine étape du TP et retour au #2 du processus
+7.package building
+8. creation the api skeleton
+
 
 Quelque défit :
 
@@ -36,3 +39,6 @@ Quelque défit :
 
 Étape 2
 Ajout des fichiers __init__.py qui sont manquant dans les répertoires de packages
+
+Étape 8
+Le path dans le requirements.txt a du être changé et la version de Flask aussi de  1.0.2 à 3.0.1
