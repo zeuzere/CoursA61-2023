@@ -26,9 +26,11 @@ Donc les étapes ont été les suivantes,
 6)	On recommence avec la prochaine étape du TP et retour au #2 du processus
 
 Quelque défit :
+
 Étape1:
 1 – Ajustement du Tox pour utiliser l’ENV de Conda avec tox-conda dans tox.ini
 -	Sinon les Packages n’était pas inclut dans le bon environnement.
 -	Et pour utiliser les packages d’un environnement Anaconda on utilise tox-conda
+
 Étape 2
 Ajout des fichiers __init__.py qui sont manquant dans les répertoires de packages
