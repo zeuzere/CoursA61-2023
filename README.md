@@ -16,6 +16,7 @@ Préparation de la solution d'IA pour la mise en production
 11. Ajout de version a notre api
 12. Ajout-Schema de validation-API flask
 13. Configurer Circle CI
+14. Publication du modèle en CI sur Gemfury
 ____________________________________________________________________________________
 Defits du projets:
 
@@ -46,3 +47,4 @@ Le path dans le requirements.txt a du être changé et la version de Flask aussi
 
 Étape 9
 Grosse problématique de python vs Conda, le chemin après la création du répertoire .tox  semble être le path d'un autre poste. Très Très bizarre. Voir le fichier word pour de plus ample explication.
+
