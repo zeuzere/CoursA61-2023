@@ -14,6 +14,8 @@ Préparation de la solution d'IA pour la mise en production
 9. Setup Config and Logging- tests flask-app
 10. Ajout-prédiction-test à notre Flask api
 11. Ajout de version a notre api
+12. Ajout-Schema de validation-API flask
+
 ____________________________________________________________________________________
 Defits du projets:
 
