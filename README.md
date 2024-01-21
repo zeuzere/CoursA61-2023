@@ -12,7 +12,7 @@ Préparation de la solution d'IA pour la mise en production
 7. package building
 8. creation the api skeleton
 9. Setup Config and Logging- tests flask-app
-
+10. Ajout-prédiction-test à notre Flask api
 
 ____________________________________________________________________________________
 Defits du projets:
