@@ -5,4 +5,4 @@ flask==3.0.1
 # update with your local path
 
 #-e "C:\Users\Dell\Desktop\cours-A61\cours-A61\packages\regression_model"
--e "C:\ProjetGit\CoursA61-2023\packages\regression_model"
+ -e "C:\ProjetGit\CoursA61-2023\packages\regression_model"
