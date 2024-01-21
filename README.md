@@ -15,7 +15,7 @@ Préparation de la solution d'IA pour la mise en production
 10. Ajout-prédiction-test à notre Flask api
 11. Ajout de version a notre api
 12. Ajout-Schema de validation-API flask
-
+13. Configurer Circle CI
 ____________________________________________________________________________________
 Defits du projets:
 
