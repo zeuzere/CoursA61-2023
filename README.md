@@ -10,6 +10,8 @@ Préparation de la solution d'IA pour la mise en production
 5. ajout ingenierie de fonctionnalités
 6. gestion des versions& journalisation
 7. package building
+8. creation the api skeleton
+9. Setup Config and Logging- tests flask-app
 
 
 ____________________________________________________________________________________
@@ -26,9 +28,6 @@ Donc les étapes ont été les suivantes,
 4)	Après succès de l’étape commiter et pousser dans la branche
 5)	Un fois pousser un fusionne la branche avec le main (Pull request)
 6)	On recommence avec la prochaine étape du TP et retour au #2 du processus
-7.package building
-8. creation the api skeleton
-
 
 Quelque défit :
 
@@ -42,3 +41,6 @@ Ajout des fichiers __init__.py qui sont manquant dans les répertoires de packag
 
 Étape 8
 Le path dans le requirements.txt a du être changé et la version de Flask aussi de  1.0.2 à 3.0.1
+
+Étape 9
+Grosse problématique de python vs Conda, le chemin après la création du répertoire .tox  semble être le path d'un autre poste. Très Très bizarre. Voir le fichier word pour de plus ample explication.
